@@ -1,0 +1,21 @@
+[
+  "{\"result\":\"You Win!\",\"comp\":\"Scissors\",\"round\":\"1\",\"userScore\":\"1\",\"compScore\":\"0\",\"user\":\"Rock\"}",
+  "{\"result\":\"We Tied!\",\"comp\":\"Paper\",\"round\":\"2\",\"userScore\":\"1\",\"compScore\":\"0\",\"user\":\"Paper\"}",
+  "{\"result\":\"We Tied!\",\"comp\":\"Scissors\",\"round\":\"3\",\"userScore\":\"1\",\"compScore\":\"0\",\"user\":\"Scissors\"}",
+  "{\"result\":\"You Win!\",\"comp\":\"Rock\",\"round\":\"4\",\"userScore\":\"2\",\"compScore\":\"0\",\"user\":\"Paper\"}",
+  "{\"result\":\"You Win!\",\"comp\":\"Scissors\",\"round\":\"5\",\"userScore\":\"3\",\"compScore\":\"0\",\"user\":\"Rock\"}",
+  "{\"result\":\"We Tied!\",\"comp\":\"Paper\",\"round\":\"6\",\"userScore\":\"3\",\"compScore\":\"0\",\"user\":\"Paper\"}",
+  "{\"result\":\"We Tied!\",\"comp\":\"Scissors\",\"round\":\"7\",\"userScore\":\"3\",\"compScore\":\"0\",\"user\":\"Scissors\"}",
+  "{\"result\":\"You Win!\",\"comp\":\"Rock\",\"round\":\"8\",\"userScore\":\"4\",\"compScore\":\"0\",\"user\":\"Paper\"}",
+  "{\"result\":\"You Win!\",\"comp\":\"Scissors\",\"round\":\"9\",\"userScore\":\"5\",\"compScore\":\"0\",\"user\":\"Rock\"}",
+  "{\"result\":\"We Tied!\",\"comp\":\"Paper\",\"round\":\"10\",\"userScore\":\"5\",\"compScore\":\"0\",\"user\":\"Paper\"}",
+  "{\"result\":\"We Tied!\",\"comp\":\"Scissors\",\"round\":\"11\",\"userScore\":\"5\",\"compScore\":\"0\",\"user\":\"Scissors\"}",
+  "{\"result\":\"You Win!\",\"comp\":\"Rock\",\"round\":\"12\",\"userScore\":\"6\",\"compScore\":\"0\",\"user\":\"Paper\"}",
+  "{\"result\":\"You Win!\",\"comp\":\"Scissors\",\"round\":\"13\",\"userScore\":\"7\",\"compScore\":\"0\",\"user\":\"Rock\"}",
+  "{\"result\":\"You Win!\",\"comp\":\"Paper\",\"round\":\"14\",\"userScore\":\"8\",\"compScore\":\"0\",\"user\":\"Scissors\"}",
+  "{\"result\":\"I Win!\",\"comp\":\"Rock\",\"round\":\"15\",\"userScore\":\"8\",\"compScore\":\"1\",\"user\":\"Scissors\"}",
+  "{\"result\":\"We Tied!\",\"comp\":\"Scissors\",\"round\":\"16\",\"userScore\":\"8\",\"compScore\":\"1\",\"user\":\"Scissors\"}",
+  "{\"result\":\"I Win!\",\"comp\":\"Rock\",\"round\":\"17\",\"userScore\":\"8\",\"compScore\":\"2\",\"user\":\"Scissors\"}",
+  "{\"result\":\"I Win!\",\"comp\":\"Scissors\",\"round\":\"18\",\"userScore\":\"8\",\"compScore\":\"3\",\"user\":\"Paper\"}",
+  "{\"result\":\"We Tied!\",\"comp\":\"Paper\",\"round\":\"19\",\"userScore\":\"8\",\"compScore\":\"3\",\"user\":\"Paper\"}"
+]
